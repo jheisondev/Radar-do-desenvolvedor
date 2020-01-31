@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Roboto:400,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  background: linear-gradient(130deg, #1e003a, #530686);
+  -webkit-font-smoothing: antialiased;
+}
+
+body, input, button {
+  font-family: 'Roboto', sans-serif;
+}
+.title {
+  font-family: 'Bangers', cursive;
+}

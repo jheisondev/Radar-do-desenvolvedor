@@ -1,0 +1,8 @@
+.vscode
+/backend/node_modules
+/backend/yarn.lock
+/frontend/mobile/node_modules
+/frontend/mobile/yarn.lock
+/frontend/mobile/.expo
+/frontend/web/node_modules
+/frontend/web/yarn.lock
